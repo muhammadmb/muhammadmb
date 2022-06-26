@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hi, I’m Muhammad
 
-<!--
-**muhammadmb/muhammadmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer interested in web development, eager to learn the latest technologies and figure out brilliant solutions for challenging problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoft sql server logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java logo" width="40" height="40" />
+
+---
+
+💹 Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmb&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
