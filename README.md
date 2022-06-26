@@ -13,3 +13,5 @@ I am a software engineer interested in web development, eager to learn the lates
 💹 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmb&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadmb&theme=radical)](https://git.io/streak-stats)
